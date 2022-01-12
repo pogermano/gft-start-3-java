@@ -6,7 +6,7 @@ Bootcamp Dio GFT Start 3 Java
 Curso Introdutório Collections Java
 </h1>
 
-<p>Resolução dos exercícios propostos: <strong>CURSO INTRODUTÓRIO COLLECTIONS FRAMEWORK JAVA</strong>, ministrado por <a href="https://github.com/cami-la/curso-dio-intro-collections">[cami-la] </a>, na plataforma de cursos online <strong> <a href="https://web.digitalinnovation.one/home"> DIGITAL INNOVATION ONE  </a></strong> 🧡💛 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
+<p>Resolução dos exercícios propostos: <strong>CURSO INTRODUTÓRIO COLLECTIONS FRAMEWORK JAVA</strong>, ministrado por <a href="https://github.com/cami-la/curso-dio-intro-collections">[cami-la] </a>, na plataforma de cursos online <strong> <a href="https://web.digitalinnovation.one/home"> DIGITAL INNOVATION ONE  </a></strong> e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
 
 <p align="center">
 <a href="https://github.com/pogermano/gft-start-3-java/tree/main/Curso%20Introdutorio%20Collections%20Java/src/list"> List </a>• <a href="https://github.com/pogermano/gft-start-3-java/tree/main/Curso%20Introdutorio%20Collections%20Java/src/set">Set </a>• <a href="https://github.com/pogermano/gft-start-3-java/tree/main/Curso%20Introdutorio%20Collections%20Java/src/map">Map</a> • <a href="https://github.com/pogermano/gft-start-3-java/tree/main/Curso%20Introdutorio%20Collections%20Java/src/streamapi">Stream API</a> 
