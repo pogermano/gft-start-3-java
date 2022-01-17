@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Curso Tratamento de Excessoes em Java/Curso Tratamento de Excessoes em Java.iml" filepath="$PROJECT_DIR$/Curso Tratamento de Excessoes em Java/Curso Tratamento de Excessoes em Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/DIOGFTStart3Java.iml" filepath="$PROJECT_DIR$/DIOGFTStart3Java.iml" />
     </modules>
   </component>
