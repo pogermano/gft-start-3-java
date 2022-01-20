@@ -9,4 +9,4 @@ Este projeto é parte integrante do Bootcamp patrocinado pela GFT na  plataforma
 
 </p>
 
-Este curso foi ministrado por [Venilton FalvoJr](https://github.com/falvojr/lab-banco-digital-oo "falvojr")
+Este curso foi ministrado por [Venilton FalvoJr](https://github.com/falvojr/lab-banco-digital-oo "falvojr").
