@@ -19,13 +19,13 @@ public class Dev {
         Optional<Conteudo> conteudo = this.conteudosInscritos.stream().findFirst();
         if(conteudo.isPresent()){
             this.conteudosConcluidos.add(conteudo.get());
-            this.conteudosConcluidos.remove(conteudo.get());
+            this.conteudosInscritos.remove(conteudo.get());
         } else {
             System.err.println("Você não está matriculado em nenhum conteúdo!");
         }
     }
-    public double calcularXp(){
-        return this.conteudosInscritos
+    public double calcularTotalXp(){
+        return this.conteudosConcluidos
                 .stream()
                 .mapToDouble(Conteudo::calcularXp)
                 .sum();
