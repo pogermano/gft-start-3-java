@@ -1,5 +1,8 @@
 package com.w3g.entities;
 
+import lombok.Getter;
+
+@Getter
 public abstract class Conta implements  IConta {
 
     private final static int AGENCIA_PADRAO = 1;
@@ -33,17 +36,6 @@ public abstract class Conta implements  IConta {
     }
 
 
-    public int getAgencia() {
-        return agencia;
-    }
-
-    public int getNumero() {
-        return numero;
-    }
-
-    public double getSaldo() {
-        return saldo;
-    }
 
     protected void imprimirInfosComuns() {
         System.out.println(String.format("Agência:  %d", this.agencia));
