@@ -39,3 +39,7 @@ Outros Cursos:
 <p align="center">
 <a href="https://github.com/pogermano/gft-start-3-java/tree/main/Abstraindo%20um%20Bootcamp%20Usando%20Orienta%C3%A7%C3%A3o%20a%20Objetos%20em%20Java">- Abstraindo um Bootcamp Usando Orientação a Objetos em Java </a>
 </p>
+
+<p align="center">
+<a href="https://github.com/pogermano/gft-start-3-java/tree/main/Explorando%20Padroes%20de%20Projetos%20na%20Pratica%20com%20Java">- Explorando Padroes de Projetos na Pratica com Java </a>
+</p>
